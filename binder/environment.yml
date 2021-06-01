@@ -16,3 +16,4 @@ dependencies:
   - nbresuse
   - psutil
   - pip
+  - rasterio=1.2.0
